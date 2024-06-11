@@ -1,6 +1,8 @@
-## client 
-1 . npm install
-2 . npm start
+
+
+## email and password
+email : admind@example.com
+Pass: password
 
 
 ## server
