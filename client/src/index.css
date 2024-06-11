@@ -1,0 +1,16 @@
+a {
+  text-decoration: none !important;
+  color: none !important;
+}
+
+.custombtn1 {
+  cursor: pointer;
+}
+.dashboard-layout {
+  box-shadow: 4px 17px 40px 4px rgba(112, 144, 176, 0.18);
+  border-radius: 10px;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+}

@@ -1,0 +1,7 @@
+.pagination .active > .page-link {
+  background-color: #198754; /* Custom green color */
+  border-color: #198754; /* Same as background color */
+}
+input[type="text"]{
+  border: none;
+}
